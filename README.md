@@ -1,0 +1,2 @@
+# build_your_dnn_step_by_step
+使用Python基础知识加numpy构建自己的深度神经网网络
